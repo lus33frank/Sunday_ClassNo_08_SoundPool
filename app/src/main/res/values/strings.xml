@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">No:08_SoundPool</string>
+    <string name="xml_button_text_play1">Play Sound No:01</string>
+    <string name="xml_button_text_play2">Play Sound No:02</string>
+</resources>
